@@ -1,8 +1,8 @@
-# Attention Is All You Need
+# Transformer
 
 PyTorch implementation of the Transformer from [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017).
 
-This is a from-scratch encoder-decoder Transformer trained on the [opus_books](https://huggingface.co/datasets/opus_books) English-Italian dataset.
+This is a encoder-decoder Transformer trained on the [opus_books](https://huggingface.co/datasets/opus_books) English-Italian dataset.
 
 ## Project Structure
 
